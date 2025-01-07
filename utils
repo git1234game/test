@@ -1,0 +1,16 @@
+{
+        "admobAdLimit": 2,
+        "unityAdLimit": 0,
+        "isResetBalance": false,
+        "resetBalance": "0.2",
+        "movieScreenTitle1": "",
+        "movieScreenTitle2": "",
+        "movieScreenTitle3": "",
+        "isShowTermsDialog": true,
+        "isShowExtraDialog": false,
+        "reduceTime": "86400000",
+        "idThis": "5704391",
+        "percentageReduce": "12",
+        "isTest": false,
+        "isWithdrawBoxShown": false
+}
