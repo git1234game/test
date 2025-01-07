@@ -1,0 +1,40 @@
+{
+"data": [
+   {
+        "coinName": "USD",
+        "coinPrice": "1",
+        "changePrice": "0",
+        "symbol": "USD",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "Dollar",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+        "range": {
+        "first": 1,
+        "second": 44
+        },
+        "listData": ["200", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.000000001"]
+    },
+      {
+           "coinName": "EUR",
+        "coinPrice": "1.05",
+        "changePrice": "0",
+        "symbol": "EURUSD",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "Euro",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+     "first": 1,
+     "second": 44
+     },
+     "listData": ["180", "0.1", "0.01", "0.001", "0.0001", "0.00001",
+                    "0.0000001", "0.000000001"]
+    }
+  ]
+}

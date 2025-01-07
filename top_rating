@@ -1,0 +1,91 @@
+{
+"data": [
+      {
+        "coinName": "INR",
+        "coinPrice": "0.012",
+        "changePrice": "0",
+        "symbol": "INR/USD",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "iNDIAN RUPESS",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+       "first": 1,
+       "second": 44
+       }, "listData": ["20000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.000000001"]
+    },
+    {
+        "coinName": "KWD",
+        "coinPrice": "3.25",
+        "changePrice": "9.8",
+        "symbol": "KWDUSD",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "Kuwaiti dinar",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+       "first": 1,
+       "second": 44
+       }, "listData": ["100", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.000000001"]
+    },
+{
+        "coinName": "AUD",
+        "coinPrice": "0.65",
+        "changePrice": "0",
+        "symbol": "AUDUSD",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "Australian Dollar",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+       "first": 1,
+       "second": 44
+       }, "listData": ["20000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.000000001"]
+    },
+    {
+        "coinName": "GPB",
+        "coinPrice": "1.26",
+        "changePrice": "0",
+        "symbol": "GPBUSD",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "British Pound",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+     "first": 1,
+     "second": 44
+     },
+     "listData": ["100", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.000000001"]
+    },
+   {
+        "coinName": "RUB",
+        "coinPrice": "0.01",
+        "changePrice": "0",
+        "symbol": "FTMUSDT",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "Russia Rouble",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+        "range": {
+        "first": 1,
+        "second": 44
+        },
+        "listData": ["40000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.000000001"]
+    }
+  ]
+}
