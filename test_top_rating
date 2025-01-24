@@ -1,0 +1,91 @@
+{
+"data": [
+      {
+        "coinName": "TRUMP",
+        "coinPrice": "0.012",
+        "changePrice": "0",
+        "symbol": "TRUMPUSDT",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "TRUMP",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+       "first": 1,
+       "second": 44
+       }, "listData": ["10000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.00000000001"]
+    },
+    {
+        "coinName": "DOGE",
+        "coinPrice": "3.25",
+        "changePrice": "9.8",
+        "symbol": "DOGEUSDT",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "DOGE",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+       "first": 1,
+       "second": 44
+       }, "listData": ["1000000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.00000000001"]
+    },
+{
+        "coinName": "XRP",
+        "coinPrice": "0.65",
+        "changePrice": "0",
+        "symbol": "RIPPLE",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "Australian Dollar",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+       "first": 1,
+       "second": 44
+       }, "listData": ["20000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.00000000001"]
+    },
+    {
+        "coinName": "ADA",
+        "coinPrice": "1.26",
+        "changePrice": "0",
+        "symbol": "CARDANO",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "British Pound",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+     "first": 1,
+     "second": 44
+     },
+     "listData": ["10000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.0000000001"]
+    },
+   {
+        "coinName": "SHIB",
+        "coinPrice": "0.01",
+        "changePrice": "0",
+        "symbol": "SHIBUSDT",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "SHIBA INU",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+        "range": {
+        "first": 1,
+        "second": 44
+        },
+        "listData": ["400000000000", "1000000", "100000 ", "10000", "200", "0.1",
+                    "0.00001", "0.0000001"]
+    }
+  ]
+}
