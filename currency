@@ -19,12 +19,12 @@
                     "0.000001", "0.000000001"]
     },
       {
-           "coinName": "BNB",
+           "coinName": "ETH",
         "coinPrice": "700",
         "changePrice": "0",
-        "symbol": "BNBUSDT",
+        "symbol": "ETHUSDT",
         "streamSymbol": "epic science fiction",
-        "coinFullName": "Euro",
+        "coinFullName": "ETHEREUM",
         "coinIcon": "", 
         "balance": "0",
         "balanceInUsdt": "",
